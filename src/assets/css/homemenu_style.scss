@@ -1,0 +1,42 @@
+.web_title{
+    height: 60px;
+    text-align: center;
+    color: #416dbe;
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 18px;
+}
+.user{
+    height: 60px;
+    padding-top: 18px;
+    margin-right: 40px;
+    font-size: 12px;
+    float: right;
+}
+canvas {
+    width: 100%;
+    height: auto ;
+    display: inline-block;
+    vertical-align: baseline;
+    position: absolute;
+    z-index: -1;
+}
+.el-menu{
+    background-color: initial;
+    .el-submenu .el-submenu__title{
+        color: #FFFFFF;
+    }
+    .el-menu-item{
+        color: #FFFFFF;
+    }
+}
+.el-menu.el-menu--horizontal {
+    border-bottom: 0px;
+}
+.el-menu--horizontal>.el-menu-item.is-active {
+    border-bottom: 0px;
+    color: #409EFF;
+}
+a{
+    text-decoration: none;
+}

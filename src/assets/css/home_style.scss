@@ -1,0 +1,67 @@
+
+.span_title{
+    // text-align: center;
+    color: #416dbe;
+    padding: 20px 20px 0px 20px;
+}
+.shipinfo_position{
+    text-align: center;
+    width: 100%;
+}
+.shipinfo_remark{
+    color: #d3d0ec;
+    padding: 5px 0px 20px 0px;
+    width: 100%;
+    text-align: center;
+}
+.today_button{
+    float: right;
+}
+.stage_time .el-table {
+    tr{
+        background-color: #060e1a
+    }
+    .cell{
+        padding: 10px 50px 5px 30px;
+    }
+    td{
+        border: 0px;
+    }
+}
+.date_select{
+    float: right;
+    padding: 0px 30px;
+}
+.cargo_arrived_type{
+    width: 120%;
+    height: 450px;
+}
+.todayCargoMuch{
+    height: 100px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+    span{
+        font-size: 32px;
+    }
+}
+.todayCargoMoney{
+    height: 100px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+    span{
+        font-size: 32px;
+    }
+}
+.estimate_arrived .el-table {
+    tr{
+        background-color: #060e1a
+    }
+    th, .el-table tr{
+        background-color: #060e1a
+    }
+    td{
+        border: 0px;
+    }
+}

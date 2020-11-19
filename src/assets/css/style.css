@@ -1,0 +1,145 @@
+body {
+  margin: 0px;
+}
+
+.article {
+  padding: 10px;
+  color: #FFFFFF;
+}
+
+.el-button--info-two.is-plain {
+  background: #5C6F85;
+  border-color: #5C6F85;
+  border-radius: 4px;
+  padding: 8px 20px;
+  margin-right: 10px;
+  margin-left: 0px;
+  color: #FFF;
+}
+
+.span_title {
+  color: #416dbe;
+  padding: 20px 20px 0px 20px;
+}
+
+.shipinfo_position {
+  text-align: center;
+  width: 100%;
+}
+
+.shipinfo_remark {
+  color: #d3d0ec;
+  padding: 5px 0px 20px 0px;
+  width: 100%;
+  text-align: center;
+}
+
+.today_button {
+  float: right;
+}
+
+.stage_time .el-table tr {
+  background-color: #060e1a;
+}
+.stage_time .el-table .cell {
+  padding: 10px 50px 5px 30px;
+}
+.stage_time .el-table td {
+  border: 0px;
+}
+
+.date_select {
+  float: right;
+  padding: 0px 30px;
+}
+
+.cargo_arrived_type {
+  width: 120%;
+  height: 450px;
+}
+
+.todayCargoMuch {
+  height: 100px;
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 20px;
+}
+.todayCargoMuch span {
+  font-size: 32px;
+}
+
+.todayCargoMoney {
+  height: 100px;
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 20px;
+}
+.todayCargoMoney span {
+  font-size: 32px;
+}
+
+.estimate_arrived .el-table tr {
+  background-color: #060e1a;
+}
+.estimate_arrived .el-table th, .estimate_arrived .el-table .el-table tr {
+  background-color: #060e1a;
+}
+.estimate_arrived .el-table td {
+  border: 0px;
+}
+
+.web_title {
+  height: 60px;
+  text-align: center;
+  color: #416dbe;
+  font-size: 32px;
+  font-weight: bold;
+  padding-top: 18px;
+}
+
+.user {
+  height: 60px;
+  padding-top: 18px;
+  margin-right: 40px;
+  font-size: 12px;
+  float: right;
+}
+
+canvas {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  vertical-align: baseline;
+  position: absolute;
+  z-index: -1;
+}
+
+.el-menu {
+  background-color: initial;
+}
+.el-menu .el-submenu .el-submenu__title {
+  color: #FFFFFF;
+}
+.el-menu .el-menu-item {
+  color: #FFFFFF;
+}
+
+.el-menu.el-menu--horizontal {
+  border-bottom: 0px;
+}
+
+.el-menu--horizontal > .el-menu-item.is-active {
+  border-bottom: 0px;
+  color: #409EFF;
+}
+
+a {
+  text-decoration: none;
+}
+
+.shipmap {
+  width: 800px;
+  height: 400px;
+}
+
+/*# sourceMappingURL=style.css.map */
